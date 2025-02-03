@@ -1,3 +1,3 @@
 # CopernicusGo
 
-Train a science AI by solving problems.
+Science-focused AI. Asks you questions that it does not yet know about. Knowledge can then be browsed via its ActivityPub-integration or its connected knowledge base.
